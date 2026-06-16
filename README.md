@@ -19,8 +19,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=id-mod&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-> "The only way to do great work is to love what you do."
-> — Steve Jobs
+<br>
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i>
+  <br>
+  <b>— Steve Jobs</b>
+</p>
+<br>
+<hr>
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/idmoddev) 
