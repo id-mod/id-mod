@@ -6,7 +6,7 @@
 * 🔍 Interested in building Android apps with integrated AI features.
 * 🛠️ Building projects while learning step by step.
 * ⚡ Always learning and improving.
-* 📍 Based in Souss-Massa, Morocco
+* 📍  Based in Souss-Massa, Morocco
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:4FC3F7&height=2&section=header" width="100%">
@@ -24,7 +24,7 @@
 </p>
 
 * <p align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="22" height="22" align="absmiddle" style="margin-right: 10px;" /> <strong>Current Goal:</strong> Building a solid foundation in Data Structures & Algorithms and Clean Code.
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="22" height="22" align="absmiddle" style="margin-right: 10px;" /> <strong>Current Goal:</strong> Building a solid foundation in DSA and Clean Code.
 </p>
 
 <p align="center">
@@ -49,32 +49,39 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="26" height="26" valign="middle" /> Github Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=id-mod&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=id-mod&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="400" />
-    </td>
-  </tr>
-</table>
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=id-mod&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+
+  <p align="center">
+     <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=id-mod&theme=github_dark&hide_border=true&background=transparent"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=id-mod&bg_color=0d1117&color=8b949e&line=3fb950&point=3fb950&area=true&area_color=238636&title_color=0d1117&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 </p>
 
 
-<div align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f381/512.gif" width="40" height="40" />
-</div>
+</p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:FF8A80&height=2&section=header" width="100%">
 </p>
 
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f381/512.gif" width="40" height="40" />
+</div>
+
 <p align="left"><strong style="font-size: 1.2em; vertical-align: middle;">You can help me by Donating:</strong> <a href="https://ko-fi.com/id_mod"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="26" align="absmiddle" /></a></p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BDBDBD,100:D1D1D1&height=2&section=header" width="100%">
